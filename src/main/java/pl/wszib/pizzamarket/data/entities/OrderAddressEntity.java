@@ -74,4 +74,5 @@ public class OrderAddressEntity {
     public void setCity(String city) {
         this.city = city;
     }
+
 }
